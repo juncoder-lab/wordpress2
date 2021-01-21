@@ -8,4 +8,15 @@ function childhoodScripts () {
 add_theme_support('custom-logo');
 add_theme_support( 'post-thumbnails' );
 add_theme_support( 'menus' );
+
+add_filter('nav_menu_link_attributes', 'nav_menu_link_class', 10, 3);
+function nav_menu_link_class($atts, $item, $args) {
+    if ($args->menu==='Main') {
+        $atts['class']='header__nav-item';
+        if ($item->current) {
+            $atts['class'].=' header__nav-item-active';
+        }
+    }
+    return $atts;
+}
 ?>
