@@ -5,16 +5,16 @@ get_header();
 
 <div class="aboutus">
         <div class="container">
-            <h1 class="title">Наша история</h1>
+            <h1 class="title">Our story</h1>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="subtitle">
-                        Все начиналось с желания
+                        It all started with desire
                     </div>
                     <div class="aboutus__text">
-                        Желания сделать как можно больше детей счастливыми. Именно с этой идеи все и зарождалось.
+                        Desires to make as many children as possible happy. It was from this idea that everything was born.
                         <br><br>
-                        Первые игрушки, сделанные вручную были классическими плюшевыми медведями, которые разошлись настолько быстро, что нас завалили заказами на несколько месяцев вперед. Именно в то время мы поняли, что идем правильным путем, вкладывая все силы и эмоции в наши игрушки.
+                        The first hand-made toys were classic teddy bears that sold out so quickly that we were inundated with orders several months in advance. It was at that time that we realized that we were going the right way, putting all our strength and emotions into our toys.
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -28,12 +28,12 @@ get_header();
                 </div>
                 <div class="col-lg-6">
                     <div class="subtitle">
-                        Главное - качество
+                        Quality is the most important
                     </div>
                     <div class="aboutus__text">
-                        Мы делали их вручную, из лучших материалов и не жалея времени. Но мы росли и наш ассортимент расширился и фабричными изделиями.
+                        We made them by hand using the finest materials and taking no time to spare. But we grew and our assortment expanded with factory products.
                         <br><br>
-                        Выбирая нас, вы можете быть уверены, что мы всегда следим за качеством закупок и никогда не предоставим вам опасный или некачественный товар.
+                        Choosing us, you can be sure that we always monitor the quality of purchases and will never provide you with a dangerous or substandard product.
                     </div>
                 </div>
             </div>
@@ -41,12 +41,12 @@ get_header();
             <div class="row">
                 <div class="col-lg-6">
                     <div class="subtitle">
-                        Современные технологии
+                        Modern technologies
                     </div>
                     <div class="aboutus__text">
-                        И даже спустя столько лет мы продолжаем создавать игрушки вручную. Как самые простые, так и те, что идут в ногу со временем. Добавляя электроники и оживляя лучших друзей ребятишек, мы всегда следим за качеством и безопасностью. Каждая отдельная игрушка проходит индивидуальный контроль по всем необходимым стандартам.
+                        And even after so many years, we continue to create toys by hand. Both the simplest and those that keep up with the times. By adding electronics and bringing kids' best friends to life, we are always looking for quality and safety. Each individual toy is individually controlled according to all necessary standards.
                         <br><br>
-                        Ведь счастливое лицо ребенка - это лучшая награда для нас!
+                        After all, the happy face of a child is the best reward for us!
                     </div>
                 </div>
                 <div class="col-lg-6">

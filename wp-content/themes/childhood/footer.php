@@ -1,15 +1,15 @@
 <div class="question">
     <div class="question__text">
-        Есть вопросы? Напишите нам!
+        Have questions? Write to us!
     </div>
-    <div id="reply" class="minibutton">Написать</div>
+    <div id="reply" class="minibutton">Write</div>
     <div class="question__close">&times</div>
 </div>
 
 <div class="reply">
     <div class="reply__body">
         <div class="reply__title">
-            Оставьте ваш вопрос здесь
+            Leave your question here
         </div>
         <?php echo do_shortcode('[contact-form-7 id="100" title="Form 2"]') ?>
     </div>
@@ -25,7 +25,7 @@
             <div class="col-md-4 col-lg-3">
                 <div class="footer__social">
                     <div class="footer__social-item">
-                        Мы в соцсетях:
+                        We are in social networks:
                     </div>
                     <a href="#" class="footer__social-item">
                         <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -66,7 +66,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <a href="#" class="footer__policy">Политика конфиденциальности</a>
+                <a href="#" class="footer__policy">Privacy policy</a>
             </div>
         </div>
     </div>

@@ -5,7 +5,7 @@ get_header();
 
 <div class="toys">
         <div class="container">
-            <h2 class="subtitle">Мягкие игрушки</h2>
+            <h2 class="subtitle">Soft toys</h2>
             <div class="toys__wrapper">
 
                 <?php
@@ -36,7 +36,7 @@ get_header();
                             <div class="toys__item-descr">
                                 <?php the_field('description'); ?>
                             </div>
-                            <div class="minibutton toys__trigger">Подробнее</div>
+                            <a href="<?php echo get_permalink(); ?>" class="minibutton toys__trigger">More details</a>
                         </div>
                     </div>
 
@@ -46,7 +46,7 @@ get_header();
                 wp_reset_postdata();
                 ?>
             </div>
-            <h2 class="subtitle">Развивающие игрушки</h2>
+            <h2 class="subtitle">Educational toys</h2>
             <div class="toys__wrapper">
 
                 <?php
@@ -77,7 +77,7 @@ get_header();
                             <div class="toys__item-descr">
                                 <?php the_field('description'); ?>
                             </div>
-                            <div class="minibutton toys__trigger">Подробнее</div>
+                            <a href="<?php echo get_permalink(); ?>" class="minibutton toys__trigger">More details</a>
                         </div>
                     </div>
 
@@ -90,7 +90,7 @@ get_header();
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
                     <div class="toys__alert">
-                        <span>Не нашли то, что искали?</span> Свяжитесь с нами - и мы с радостью создадим любую игрушку по вашему желанию. Вы можете выбрать все: размер, материал, формы...!
+                        <span>Did not find what you were looking for?</span> Contact us - and we will be happy to create any toy of your choice. You can choose everything: size, material, shapes ...!
                     </div>
                 </div>
             </div>

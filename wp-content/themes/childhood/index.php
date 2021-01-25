@@ -37,7 +37,7 @@
                                         if($btn=='on')
                                         {
                                         ?>
-                                            <a href="<?php the_field('slider_link'); ?>" class="button">Узнать больше</a>
+                                            <a href="<?php the_field('slider_link'); ?>" class="button">Learn more</a>
                                         <?php
                                         }
                                         ?>
@@ -78,7 +78,7 @@
                         <div class="about__text">
                             <?php the_field('aboutDescr'); ?>
                         </div>
-                        <a href="#" class="button">Узнать больше</a>
+                        <a href="#" class="button">Learn more</a>
                     </div>
                 </div>
             </div>
